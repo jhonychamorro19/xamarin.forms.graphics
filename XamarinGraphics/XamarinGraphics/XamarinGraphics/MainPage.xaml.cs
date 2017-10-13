@@ -43,8 +43,12 @@ namespace XamarinGraphics
        public MainPage()
         {
             InitializeComponent();
-
+        /*
             Grafico.Chart = new Microcharts.BarChart() { Entries = lista };
+
+            Grafico2.Chart = new Microcharts.RadialGaugeChart() { Entries = lista };
+            */
+            Grafico3.Chart = new Microcharts.LineChart() { Entries = lista };
         }
     }
 }
