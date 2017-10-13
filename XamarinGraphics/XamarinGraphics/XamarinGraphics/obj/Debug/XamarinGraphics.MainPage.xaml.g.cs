@@ -16,12 +16,12 @@ namespace XamarinGraphics {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Microcharts.ChartView Grafico;
+        private global::Microcharts.Forms.ChartView Grafico;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
-            Grafico = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Microcharts.ChartView>(this, "Grafico");
+            Grafico = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Microcharts.Forms.ChartView>(this, "Grafico");
         }
     }
 }

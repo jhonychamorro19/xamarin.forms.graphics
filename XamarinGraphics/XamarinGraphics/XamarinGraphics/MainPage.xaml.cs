@@ -40,7 +40,7 @@ namespace XamarinGraphics
             },
         };
         
-        public MainPage()
+       public MainPage()
         {
             InitializeComponent();
 
