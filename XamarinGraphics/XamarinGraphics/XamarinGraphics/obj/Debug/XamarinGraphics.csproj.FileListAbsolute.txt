@@ -1,0 +1,4 @@
+D:\Microsoft Visual Studio\Projects\xamarin.forms.graphics\XamarinGraphics\XamarinGraphics\XamarinGraphics\obj\Debug\XamarinGraphics.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projects\xamarin.forms.graphics\XamarinGraphics\XamarinGraphics\XamarinGraphics\obj\Debug\XamarinGraphics.MainPage.xaml.g.cs
+D:\Microsoft Visual Studio\Projects\xamarin.forms.graphics\XamarinGraphics\XamarinGraphics\XamarinGraphics\obj\Debug\XamarinGraphics.App.xaml.g.cs
+D:\Microsoft Visual Studio\Projects\xamarin.forms.graphics\XamarinGraphics\XamarinGraphics\XamarinGraphics\obj\Debug\XamarinGraphics.csprojResolveAssemblyReference.cache
